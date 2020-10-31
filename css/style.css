@@ -168,6 +168,8 @@ table th {
 
 @media only screen and (max-width: 779px) {
     header {
+        margin: 0 auto;
+        width: 90%;
         padding: 20px 0px 0px 0px;
     }
 
@@ -182,7 +184,6 @@ table th {
 
     body>div>main>article.info {
         width: 90%;
-        padding: 20px;
     }
 
     body>div>main>article>div.info-right>p {
